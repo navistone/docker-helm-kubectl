@@ -4,7 +4,7 @@ FROM alpine:3.8
 MAINTAINER Ken Herner <kherner@navistone.com>
 
 ENV KUBE_LATEST_VERSION=v1.10.11
-ENV HELM_VERSION=v2.12.0
+ENV HELM_VERSION=v2.14.0
 ENV HELM_FILENAME=helm-${HELM_VERSION}-linux-amd64.tar.gz
 
 
